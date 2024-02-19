@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5f35307d7c11440e836ff9ad10e31fb2/artifacts
+deleted_time: 1708437007894
+end_time: 1708239632055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5f35307d7c11440e836ff9ad10e31fb2
+run_name: fun-carp-805
+run_uuid: 5f35307d7c11440e836ff9ad10e31fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708239629734
+status: 4
+tags: []
+user_id: kashyap

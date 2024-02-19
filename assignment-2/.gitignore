@@ -1,0 +1,5 @@
+/train.csv
+/validation.csv
+/test.csv
+.dvc/
+*.pkl

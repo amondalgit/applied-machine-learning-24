@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a096e670090a45ffa77454797152a2ce/artifacts
+deleted_time: 1708437007894
+end_time: 1708239299029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a096e670090a45ffa77454797152a2ce
+run_name: rogue-crow-433
+run_uuid: a096e670090a45ffa77454797152a2ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708239299017
+status: 4
+tags: []
+user_id: kashyap

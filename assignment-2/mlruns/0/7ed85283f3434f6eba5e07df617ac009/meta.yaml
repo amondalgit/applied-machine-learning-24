@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7ed85283f3434f6eba5e07df617ac009/artifacts
+deleted_time: 1708437007893
+end_time: 1708239662585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ed85283f3434f6eba5e07df617ac009
+run_name: bright-sloth-535
+run_uuid: 7ed85283f3434f6eba5e07df617ac009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708239658182
+status: 3
+tags: []
+user_id: kashyap

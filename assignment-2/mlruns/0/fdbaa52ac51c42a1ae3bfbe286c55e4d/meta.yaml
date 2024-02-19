@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fdbaa52ac51c42a1ae3bfbe286c55e4d/artifacts
+deleted_time: 1708442504831
+end_time: 1708441593804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fdbaa52ac51c42a1ae3bfbe286c55e4d
+run_name: Decision Tree
+run_uuid: fdbaa52ac51c42a1ae3bfbe286c55e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708441001575
+status: 4
+tags: []
+user_id: kashyap
